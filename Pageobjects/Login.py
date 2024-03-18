@@ -52,7 +52,7 @@ class test_001_Login(selenium_webdriver):
         self.elementClick('//a[@aria-label="Groups"]', "XPATH")
 
     def clickOnCreateastory(self):
-        self.elementClick('//a[@aria-label="Create story"]', "XPATH")
+        self.elementClick('//span[contains(text(), "Create Story")]', "XPATH")
 
     def clickOnCreateatextStory(self):
         self.elementClick("//div[contains(text(), 'Create a Text Story')]", "XPATH")

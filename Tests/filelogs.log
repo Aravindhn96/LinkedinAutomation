@@ -1845,3 +1845,44 @@
 03/15/2024 03:18:32 AM -selenium_webdriver-ERROR:Element not appeared on webpage
 03/15/2024 03:18:35 AM -<module>-INFO:Running one time teardown
 03/15/2024 03:18:35 AM -<module>-INFO:Running one time teardown
+03/18/2024 10:03:28 PM -<module>-INFO:Running one time setUp
+03/18/2024 10:03:28 PM -<module>-INFO:Running one time setUp
+03/18/2024 10:03:40 PM -webDriverFactory-INFO:WebDriver successfully initialized
+03/18/2024 10:03:41 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:42 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:42 PM -selenium_webdriver-INFO:send keys on element with locatoremail locator Type id
+03/18/2024 10:03:42 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:42 PM -selenium_webdriver-INFO:send keys on element with locator//input[@id="pass"] locator Type xpath
+03/18/2024 10:03:42 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:47 PM -selenium_webdriver-INFO:Clicked on element with locator//button[contains(text(), "Log in")]locator Typexpath
+03/18/2024 10:03:47 PM -selenium_webdriver-INFO:waiting for maximum10until the element to be clickable
+03/18/2024 10:03:59 PM -selenium_webdriver-ERROR:Element not appeared on webpage
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:Element is Present
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:send keys on element with locatoremail locator Type id
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:send keys on element with locator//input[@id="pass"] locator Type xpath
+03/18/2024 10:03:59 PM -selenium_webdriver-INFO:Element Found
+03/18/2024 10:04:05 PM -selenium_webdriver-INFO:Clicked on element with locator//button[contains(text(), "Log in")]locator Typexpath
+03/18/2024 10:04:05 PM -selenium_webdriver-INFO:waiting for maximum10until the element to be clickable
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element not appeared on webpage
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element Not Found
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Cannot click on element with locator//a[@aria-label="Home"]locator TypeXPATH
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element Not Found
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Cannot click on element with locator//a[@aria-label="Friends"]locator TypeXPATH
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element Not Found
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Cannot click on element with locator//a[@aria-label="Groups"]locator TypeXPATH
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element Not Found
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Cannot click on element with locator//a[@aria-label="Home"]locator TypeXPATH
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element Not Found
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Cannot click on element with locator//a[@aria-label="Create story"]locator TypeXPATH
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element Not Found
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Cannot click on element with locator//div[contains(text(), 'Create a Text Story')]locator TypeXPATH
+03/18/2024 10:04:06 PM -selenium_webdriver-INFO:waiting for maximum10until the element to be clickable
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element not appeared on webpage
+03/18/2024 10:04:06 PM -selenium_webdriver-INFO:waiting for maximum10until the element to be clickable
+03/18/2024 10:04:06 PM -selenium_webdriver-ERROR:Element not appeared on webpage
+03/18/2024 10:04:09 PM -<module>-INFO:Running one time teardown
+03/18/2024 10:04:09 PM -<module>-INFO:Running one time teardown
