@@ -19,6 +19,7 @@ class test_001_Login(selenium_webdriver):
         self.elementClick(self._signin_btn, locatorType="xpath")
 
     def enterEmail(self, email):
+        self.getElement(self._email_id,locatorType="id").clear()
         self.sendKeys(email,self._email_id,locatorType="id")
 
     def enterPassword(self, passwrd):
