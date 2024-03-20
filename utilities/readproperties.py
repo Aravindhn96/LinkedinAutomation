@@ -12,7 +12,7 @@ class readconfig():
     @staticmethod
     def getApplicationURL():
         url = config.get('common info', 'baseURL')
-        return url
+        return url  
 
     @staticmethod
     def getUserEmail():
